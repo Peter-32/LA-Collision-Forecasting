@@ -13,3 +13,4 @@ tensorflow==1.8.0
 keras==2.0.4
 statsmodels
 bokeh
+Uszipcode
